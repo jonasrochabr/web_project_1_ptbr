@@ -249,14 +249,15 @@ img {
 /*-------------KAUFMAN---------------*/
 
 .kaufman {
-  margin-top: 90px;
+  padding: 90px;
   margin-bottom: 90px;
-  
   margin: 0 auto;
   background: var(--clr-graybg);
+  position: relative;
 }
 
 .triangle {
+  display: flex;
   position: absolute;
   right: -124px;
   z-index: 0;
@@ -299,6 +300,7 @@ img {
 }
 
 .table__text{
+  display: flex;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
