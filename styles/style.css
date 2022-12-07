@@ -251,7 +251,7 @@ img {
 .kaufman {
   margin-top: 90px;
   margin-bottom: 90px;
-  overflow: hidden;
+  
   margin: 0 auto;
   background: var(--clr-graybg);
 }
