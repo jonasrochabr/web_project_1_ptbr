@@ -24,7 +24,6 @@
   --clr-graybg: #1f1f1f;
   --clr-links-forms: #2f80ed;
   --clr-black: #000000;
-	
 	--spacing: 0.25rem;
 	--transition: all 0.2s linear;
 	--dark-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, 0.2);
@@ -259,11 +258,8 @@ img {
 
 .table__cell_theme_dark {
   color: var(--clr-background);
-}
-
-.table__cell_theme_dark {
- width: 200px;
- z-index: 2;
+  width: 200px;
+  z-index: 2;
 }
 
 .section-title__theme_dark {
