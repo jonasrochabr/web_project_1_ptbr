@@ -30,6 +30,8 @@
 	--spacing: 0.25rem;
 	--transition: all 0.2s linear;
 	--dark-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, 0.2);
+
+
 }
 
 /*-------------REGRAS GERAIS---------------*/
@@ -176,8 +178,6 @@ img {
   flex-wrap: wrap;
 }
 
-
-
 .table__cell {
   width: 250px;
 }
@@ -313,15 +313,11 @@ img {
 
 .footer__column-heading {
   margin-bottom: 20px;
-
 }
-
-
 
 .footer__columns {
   color: var(--clr-background);
   position: relative;
-
 }
 
 .footer__social-icons{
@@ -335,6 +331,15 @@ img {
   display: flex;
   flex-direction: column;
 }
+
+.footer__column-link{
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  text-decoration: none;
+  color: var(--clr-background)
+}
+
 
 .footer__list  {
   display: flex;
@@ -358,5 +363,4 @@ img {
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-
 }
