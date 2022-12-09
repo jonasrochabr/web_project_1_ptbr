@@ -20,8 +20,6 @@
 }
 
 :root {
-	
-	
 	--clr-background: 	#f2f2f2;
   --clr-graybg: #1f1f1f;
   --clr-links-forms: #2f80ed;
@@ -30,8 +28,6 @@
 	--spacing: 0.25rem;
 	--transition: all 0.2s linear;
 	--dark-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, 0.2);
-
-
 }
 
 /*-------------REGRAS GERAIS---------------*/
@@ -323,7 +319,7 @@ img {
 .footer__social-icons{
   width: 16px;
   height: 16px;
-  display: flex ;
+  display: flex;
 }
 
 .footer__column_content_about {
@@ -337,7 +333,7 @@ img {
   align-items: center;
   gap: 3px;
   text-decoration: none;
-  color: var(--clr-background)
+  color: var(--clr-background);
 }
 
 
