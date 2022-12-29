@@ -56,9 +56,9 @@
 @import url(/blocos/footer/__column_content_about/footer__column_content_about.css);
 @import url(/blocos/footer/__column_content_social/footer__column_content_social.css);
 @import url(/blocos/footer/__columns/footer__columns.css);
-@import url(/blocos/footer/__columns_content_copyright/footer__columns_content_copyright.css);
+@import url(/blocos/footer/__columns_content-copyright/footer__columns_content-copyright.css);
 @import url(/blocos/footer/__list/footer__list.css);
-@import url(/blocos/footer/__place_footer/logo__place_footer.css);
+@import url(/blocos/footer/__place-footer/logo__place-footer.css);
 @import url(/blocos/footer/__social-icons/footer__social-icons.css);
 
 
@@ -103,7 +103,7 @@
 
 @import url(/blocos/table/table.css);
 @import url(/blocos/table/__cell/table__cell.css);
-@import url(/blocos/table/__cell/_theme_dark/table__text_theme_dark.css);
+@import url(/blocos/table/__cell/_theme_dark/table__theme-dark.css);
 @import url(/blocos/table/__heading/table__heading.css);
 @import url(/blocos/table/__heading/_theme_dark/table__heading_theme_dark.css);
 @import url(/blocos/table/__text/table__text.css);
