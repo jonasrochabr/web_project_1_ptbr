@@ -97,7 +97,7 @@
 /*******section-title*******/
 
 @import url(/blocos/section-title/section-title.css);
-@import url(/blocos/section-title/_theme_dark/section-title__theme_dark.css);
+@import url(/blocos/section-title/_theme_dark/section-title_theme_dark.css);
 
 /*******table*******/
 
@@ -124,3 +124,4 @@
 @import url(/blocos/videos/video.css);
 @import url(/blocos/videos/__iframe/video__iframe.css);
 @import url(/blocos/videos/__iframes/video__iframes.css);
+@import url(/blocos/videos/__bg/video__bg.css);
