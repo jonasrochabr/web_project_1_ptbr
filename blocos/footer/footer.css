@@ -1,0 +1,16 @@
+
+
+/*-------------FOOTER---------------*/
+
+.footer {
+  min-height: 350px;
+  background-color: var(--clr-graybg);
+  padding-top: 60px;
+  padding-bottom: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+

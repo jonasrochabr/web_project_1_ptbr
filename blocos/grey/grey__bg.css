@@ -1,0 +1,7 @@
+.grey__bg {
+    background-color: var(--clr-background);
+    display: flex;
+    width: 1600px;
+    height: 950px;
+    z-index: -1;
+  }

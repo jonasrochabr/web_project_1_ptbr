@@ -1,0 +1,19 @@
+
+
+/*-------------OAKLEY---------------*/
+
+.grey__bg {
+    background-color: var(--clr-background);
+    position: absolute;
+    width: 1600px;
+    height: 950px;
+    z-index: -1;
+  }
+  
+  .two-columns__brief_padding {
+    margin-left: 40px;
+  }
+
+  .oakley {
+    margin-top: 100px;
+  }

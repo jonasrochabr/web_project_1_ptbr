@@ -1,0 +1,10 @@
+.triangle {
+    position: absolute;
+    width: 660px;
+    height: 636px;
+    bottom: 0;
+    right: -124px;
+    overflow: hidden;
+    z-index: 0;
+    animation: rotation 20s, infinite, linear;
+  }

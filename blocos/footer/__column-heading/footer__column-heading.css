@@ -1,0 +1,7 @@
+.footer__column-heading {
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: bold;
+    color: var(--clr-background);
+  }
+  

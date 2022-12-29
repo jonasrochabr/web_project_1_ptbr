@@ -1,0 +1,23 @@
+
+
+/*-------------FEYNMAN---------------*/
+
+.feynman {
+    position: relative;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--clr-background);
+    height: 790px;
+    padding-top: 100px;
+  }
+  
+  
+
+  
+
+  
+
+
+  
