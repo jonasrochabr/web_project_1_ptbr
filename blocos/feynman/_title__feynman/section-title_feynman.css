@@ -1,6 +1,8 @@
 
 
-  .section__title__feynman {
+  .section-title_feynman {
+    display: flex;
+    justify-content: center;
     width: 775px;
     margin-bottom: 70px;
     z-index: 1;
